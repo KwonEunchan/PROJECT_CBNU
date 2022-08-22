@@ -5,7 +5,7 @@ import ADBar from './components/ADBar';
 import Slide from './components/Slide';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
-import { Routes, Route, Link } from 'react-router-dom'
+import { Routes, Route} from 'react-router-dom'
 
 function App() {
   // 광고란
