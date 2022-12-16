@@ -1,0 +1,315 @@
+{
+    "list": [{
+            "code": 1,
+            "category": "한식",
+            "name": "먹보집",
+            "loc": "1분 이내",
+            "best": "부대찌개",
+            "price": 9000
+        },
+        {
+            "code": 2,
+            "category": "한식",
+            "name": "화로구이 정",
+            "loc": "1분 이내",
+            "best": "된장찌개+제육볶음",
+            "price": 10000
+        },
+        {
+            "code": 3,
+            "category": "분식",
+            "name": "이여사나무김밥",
+            "loc": "1분 이내",
+            "best": "참치김밥",
+            "price": 4000
+        },
+        {
+            "code": 4,
+            "category": "한식",
+            "name": "놀부부대찌개",
+            "loc": "1분 이내",
+            "best": "부대찌개(2인)",
+            "price": 28000
+        },
+        {
+            "code": 5,
+            "category": "한식",
+            "name": "삼다옥1947",
+            "loc": "1분 이내",
+            "best": "불백정식",
+            "price": 8900
+        },
+        {
+            "code": 6,
+            "category": "한식",
+            "name": "오리랑돼지랑",
+            "loc": "1분",
+            "best": "오삼철판",
+            "price": 10000
+        },
+        {
+            "code": 7,
+            "category": "중식",
+            "name": "짬뽕타워24시",
+            "loc": "1분",
+            "best": "짬뽕",
+            "price": 7500
+        },
+        {
+            "code": 8,
+            "category": "한식",
+            "name": "단청김치찜김치찌개",
+            "loc": "1분",
+            "best": "김치찜",
+            "price": 10000
+        },
+        {
+            "code": 9,
+            "category": "기타",
+            "name": "퀴즈노스",
+            "loc": "1분",
+            "best": "트레디셔널 샌드위치",
+            "price": 6500
+        },
+        {
+            "code": 10,
+            "category": "분식",
+            "name": "더빨강",
+            "loc": "2분",
+            "best": "로제떡볶이",
+            "price": 7000
+        },
+        {
+            "code": 11,
+            "category": "한식",
+            "name": "명가",
+            "loc": "2분",
+            "best": "칼국수",
+            "price": 8000
+        },
+        {
+            "code": 12,
+            "category": "한식",
+            "name": "전주콩나루콩나물국밥",
+            "loc": "2분",
+            "best": "전주콩나물국밥",
+            "price": 7000
+        },
+        {
+            "code": 13,
+            "category": "한식",
+            "name": "한터보리",
+            "loc": "2분",
+            "best": "보리밥 정식",
+            "price": 9000
+        },
+        {
+            "code": 14,
+            "category": "한식",
+            "name": "낙낙한식당",
+            "loc": "2분",
+            "best": "낙지덮밥",
+            "price": 9000
+        },
+        {
+            "code": 15,
+            "category": "일식",
+            "name": "맛집돈까스소바",
+            "loc": "2분",
+            "best": "돈까스+소바",
+            "price": 9000
+        },
+        {
+            "code": 16,
+            "category": "한식",
+            "name": "담소소사골순대육개장",
+            "loc": "2분",
+            "best": "일품순대국",
+            "price": 8900
+        },
+        {
+            "code": 17,
+            "category": "한식",
+            "name": "마루돈가",
+            "loc": "2분",
+            "best": "제육정식",
+            "price": 9000
+        },
+        {
+            "code": 18,
+            "category": "한식",
+            "name": "LA북창동순두부",
+            "loc": "2분",
+            "best": "북창동순두부찌개",
+            "price": 10000
+        },
+        {
+            "code": 19,
+            "category": "한식",
+            "name": "육수당",
+            "loc": "3분",
+            "best": "비법육개장",
+            "price": 10000
+        },
+        {
+            "code": 20,
+            "category": "한식",
+            "name": "밥식구",
+            "loc": "3분",
+            "best": "강된장덮밥",
+            "price": 10500
+        },
+        {
+            "code": 21,
+            "category": "한식",
+            "name": "큰맘할매순대국",
+            "loc": "3분",
+            "best": "큰맘순대국",
+            "price": 9000
+        },
+        {
+            "code": 22,
+            "category": "한식",
+            "name": "명가원설농탕",
+            "loc": "3분",
+            "best": "설렁탕",
+            "price": 10000
+        },
+        {
+            "code": 23,
+            "category": "중식",
+            "name": "장홍규중화요리",
+            "loc": "4분",
+            "best": "간짜장",
+            "price": 9000
+        },
+        {
+            "code": 24,
+            "category": "기타",
+            "name": "맥도날드",
+            "loc": "5분",
+            "best": "빅맥 Set",
+            "price": 9000
+        },
+        {
+            "code": 25,
+            "category": "기타",
+            "name": "써브웨이",
+            "loc": "6분",
+            "best": "이탈리안BMT Set",
+            "price": 8700
+        },
+        {
+            "code": 26,
+            "category": "기타",
+            "name": "맘스터치",
+            "loc": "6분",
+            "best": "싸이버거 Set",
+            "price": 6600
+        },
+        {
+            "code": 27,
+            "category": "분식",
+            "name": "베테랑",
+            "loc": "7분",
+            "best": "냄비라면",
+            "price": 4000
+        },
+        {
+            "code": 28,
+            "category": "기타",
+            "name": "매콤타이",
+            "loc": "7분",
+            "best": "소고기쌀국수",
+            "price": 11500
+        },
+        {
+            "code": 29,
+            "category": "양식",
+            "name": "서울미트볼",
+            "loc": "7분",
+            "best": "서울미트볼라이스",
+            "price": 9400
+        },
+        {
+            "code": 30,
+            "category": "한식",
+            "name": "단가마감자탕",
+            "loc": "7분",
+            "best": "뼈해장국",
+            "price": 8000
+        },
+        {
+            "code": 31,
+            "category": "중식",
+            "name": "홍콩반점",
+            "loc": "7분",
+            "best": "짜장밥",
+            "price": 8000
+        },
+        {
+            "code": 32,
+            "category": "일식",
+            "name": "백식당",
+            "loc": "8분",
+            "best": "소고기마요덮밥",
+            "price": 12000
+        },
+        {
+            "code": 33,
+            "category": "중식",
+            "name": "하오마라",
+            "loc": "8분",
+            "best": "마라탕",
+            "price": 0
+        },
+        {
+            "code": 34,
+            "category": "한식",
+            "name": "월선네",
+            "loc": "8분",
+            "best": "청국장+제육볶음",
+            "price": 8000
+        },
+        {
+            "code": 35,
+            "category": "일식",
+            "name": "마초야",
+            "loc": "8분",
+            "best": "돈카츠",
+            "price": 10500
+        },
+        {
+            "code": 36,
+            "category": "한식",
+            "name": "봉추찜닭",
+            "loc": "8분",
+            "best": "봉추찜닭(2인)",
+            "price": 24000
+        },
+        {
+            "code": 37,
+            "category": "중식",
+            "name": "진짜장짬뽕",
+            "loc": "8분",
+            "best": "해물짬뽕",
+            "price": 8000
+        },
+        {
+            "code": 38,
+            "category": "양식",
+            "name": "돈가스에미치다",
+            "loc": "8분",
+            "best": "돈까스정식",
+            "price": 10000
+        },
+        {
+            "code": 39,
+            "category": "한식",
+            "name": "전주현대옥",
+            "loc": "9분",
+            "best": "콩나물국밥",
+            "price": 8500
+        }
+    ]
+}
