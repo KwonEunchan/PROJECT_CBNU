@@ -27,7 +27,7 @@ function App() {
           temp = randomValue
         }
         else{
-          setFlag("Normal")
+          setFlag("Normal");
         }
       }
       else{
