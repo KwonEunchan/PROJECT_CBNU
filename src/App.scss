@@ -10,6 +10,11 @@
   -ms-user-select: none;
   user-select: none;
 }
+.App{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+}
 
 .background {
   width: 100vw;
@@ -17,7 +22,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position:fixed;
+  position: fixed;
 
   .cardBox {
     width: 80%;
