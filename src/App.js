@@ -15,7 +15,7 @@ function App() {
     }
     setTimeout(() => {
       setRandomValue(temp)
-    }, 250);
+    }, 250)
   },[rotateCount])
   return (
     <div className="App">
